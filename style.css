@@ -1,0 +1,13 @@
+h1, h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+img{
+    height: fit-content;
+    width: auto;
+}
+
+p1{
+    color: gray;
+}
